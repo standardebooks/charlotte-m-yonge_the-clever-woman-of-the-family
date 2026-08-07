@@ -6,10 +6,4 @@
 			<reason>Generational suffix at the end of a sentence.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-8.xhtml">
-		<ignore code="s-044">
-			<line>105</line>
-			<reason>Quoting part of a poem in the middle of a paragraph.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>

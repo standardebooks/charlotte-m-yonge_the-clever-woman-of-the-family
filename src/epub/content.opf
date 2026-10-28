@@ -53,7 +53,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3292</dc:source>
 		<dc:source>https://archive.org/details/cleverwomanoffam00yongrich</dc:source>
-		<meta property="schema:wordCount">183002</meta>
+		<meta property="schema:wordCount">182096</meta>
 		<meta property="schema:educationalLevel">66.88</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
